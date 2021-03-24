@@ -1,3 +1,2 @@
-# desafioprogbr
-PRIMEIRO DESAFIO DO PROGBR <br>
-pagina de captura de email com html, css e mailchimp
+# DESAFIO CURSO PROG BR
+Página de captura de email para uma palestra ficticia com html, css e mailchimp.
